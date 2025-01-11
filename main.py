@@ -2,6 +2,11 @@ import badger2040
 import badger_os
 display = badger2040.Badger2040()
 
+##### TODOs #####
+# - Add bounces checking for HP and spell slots
+# - Adjust font sizing/spacing if name/class is too big
+# - Cleanup var naming from previous example file
+
 # Global Constants
 WIDTH = badger2040.WIDTH #296
 HEIGHT = badger2040.HEIGHT #128
